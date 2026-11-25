@@ -1,4 +1,4 @@
-< h1> Exp No. 1: Developing an AI Agent with PEAS Description</h1>
+## Exp No. 1: Developing an AI Agent with PEAS Description
 <h3>Name: Induja R</h3>
 <h3>Register Number: 212225230103</h3>
 
